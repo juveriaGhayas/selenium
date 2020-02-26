@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="1" parallel="tests" name="TC01_Add_Skills(failed)">
+    <parameter name="Browser" value="Chrome"/>
+    <classes>
+      <class name="TestCases.TC01_Add_Skills">
+        <methods>
+          <include name="Skills_call_allmethods" invocation-numbers="1"/>
+          <include name="CreateHTML"/>
+          <include name="CloseHtml"/>
+        </methods>
+      </class> <!-- TestCases.TC01_Add_Skills -->
+    </classes>
+  </test> <!-- TC01_Add_Skills(failed) -->
+</suite> <!-- Failed suite [Suite] -->

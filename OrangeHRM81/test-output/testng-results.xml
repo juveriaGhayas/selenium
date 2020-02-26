@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<table> <tr >  <img   style="border:1px solid black;"      src="C:\HTML Report\HtmlTemplates\Logo.JPEG"></tr><tr   ><center><font color="red"  size="15" >TC01_Add_Nationality_Iterration_1</font></center></tr><tr bgcolor="#9370DB"> <th width="100px"> <center><font color="white"  size="4" >Steps</font></center><font color="white"  size="4" ></font></center> </th> <th width="450px" ><center><font color="white"  size="4" >Details </font> </center></th> <th width="100px" ><center><font color="white"  size="4" >Status</font></center></th>  <th  width="250px"  ><center><font color="white"  size="4" >Screen Shots</font></center></th> <th width="250px"  ><center><font color="white"  size="4" >Date & Time</font></center></th>  </tr>       ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;1</center> </th> <th width="450px" ><center><b><font color='black'>   Open Url - Orange HRM Url Invoked Successfully </b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_37_59_198 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_37_59_198 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_37_59_725_AM</center></th>  </tr>      ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#ddd"> <th width="100px"> <center>Step&nbsp;2</center> </th> <th width="450px" ><center><b><font color='black'>   Login Page - Enter user Name</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_37_59_993 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_37_59_993 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_00_456_AM</center></th>  </tr>      ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;3</center> </th> <th width="450px" ><center><b><font color='black'>   Login Page - Enter Password</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_38_00_644 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_38_00_644 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_01_136_AM</center></th>  </tr>      ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#ddd"> <th width="100px"> <center>Step&nbsp;4</center> </th> <th width="450px" ><center><b><font color='black'>   Login Page - Click on Sign In</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_38_01_190 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_38_01_190 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_01_621_AM</center></th>  </tr>      ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;5</center> </th> <th width="450px" ><center><b><font color='black'>   Nationality Page - Nationality Entered</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_38_08_654 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_38_08_654 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_09_020_AM</center></th>  </tr>      ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#ddd"> <th width="100px"> <center>Step&nbsp;6</center> </th> <th width="450px" ><center><b><font color='black'>   Scroll Nationality </b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_38_10_910 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_38_10_910 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_11_273_AM</center></th>  </tr>      ]]>
+    </line>
+    <line>
+      <![CDATA[<table> <tr >  <img   style="border:1px solid black;"      src="C:\HTML Report\HtmlTemplates\Logo.JPEG"></tr><tr   ><center><font color="red"  size="15" >TC01_Add_Nationality_Iterration_2</font></center></tr><tr bgcolor="#9370DB"> <th width="100px"> <center><font color="white"  size="4" >Steps</font></center><font color="white"  size="4" ></font></center> </th> <th width="450px" ><center><font color="white"  size="4" >Details </font> </center></th> <th width="100px" ><center><font color="white"  size="4" >Status</font></center></th>  <th  width="250px"  ><center><font color="white"  size="4" >Screen Shots</font></center></th> <th width="250px"  ><center><font color="white"  size="4" >Date & Time</font></center></th>  </tr>       ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;1</center> </th> <th width="450px" ><center><b><font color='black'>   Nationality Page - Nationality Entered</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_2_2019_Dec_23_4_38_11_287_AM/23_Dec_2019 4_38_12_880 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_2_2019_Dec_23_4_38_11_287_AM/23_Dec_2019 4_38_12_880 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_13_254_AM</center></th>  </tr>      ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#ddd"> <th width="100px"> <center>Step&nbsp;2</center> </th> <th width="450px" ><center><b><font color='black'>   Scroll Nationality </b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_2_2019_Dec_23_4_38_11_287_AM/23_Dec_2019 4_38_15_345 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_2_2019_Dec_23_4_38_11_287_AM/23_Dec_2019 4_38_15_345 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_15_721_AM</center></th>  </tr>      ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;3</center> </th> <th width="450px" ><center><b><font color='black'>   HomePage - Logout</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_2_2019_Dec_23_4_38_11_287_AM/23_Dec_2019 4_38_15_791 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_2_2019_Dec_23_4_38_11_287_AM/23_Dec_2019 4_38_15_791 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_16_152_AM</center></th>  </tr>      ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#ddd"> <th width="100px"> <center>Step&nbsp;4</center> </th> <th width="450px" ><center><b><font color='black'>   After Click on Logout- Logged out Succefully</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_2_2019_Dec_23_4_38_11_287_AM/23_Dec_2019 4_38_17_904 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_2_2019_Dec_23_4_38_11_287_AM/23_Dec_2019 4_38_17_904 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_18_336_AM</center></th>  </tr>      ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2019-12-22T23:07:49Z" name="Suite" finished-at="2019-12-22T23:08:19Z" duration-ms="29457">
+    <groups>
+    </groups>
+    <test started-at="2019-12-22T23:07:49Z" name="TC01_Add_Nationality" finished-at="2019-12-22T23:08:19Z" duration-ms="29457">
+      <class name="TestCases.TC01_Add_Nationality">
+        <test-method is-config="true" signature="CreateHTML(java.lang.String)[pri:0, instance:TestCases.TC01_Add_Nationality@6ac13091]" started-at="2019-12-22T23:07:49Z" name="CreateHTML" finished-at="2019-12-22T23:07:55Z" duration-ms="5423" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateHTML -->
+        <test-method signature="Nationality_call_allmethods(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.TC01_Add_Nationality@6ac13091]" started-at="2019-12-22T23:07:56Z" name="Nationality_call_allmethods" data-provider="TC01_Add_Nationality1" finished-at="2019-12-22T23:08:11Z" duration-ms="14725" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://s2.demo.opensourcecms.com/orangehrm/symfony/web/index.php/auth/login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[opensourcecms]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[opensourcecms]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Mexicans124]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<table> <tr >  <img   style="border:1px solid black;"      src="C:\HTML Report\HtmlTemplates\Logo.JPEG"></tr><tr   ><center><font color="red"  size="15" >TC01_Add_Nationality_Iterration_1</font></center></tr><tr bgcolor="#9370DB"> <th width="100px"> <center><font color="white"  size="4" >Steps</font></center><font color="white"  size="4" ></font></center> </th> <th width="450px" ><center><font color="white"  size="4" >Details </font> </center></th> <th width="100px" ><center><font color="white"  size="4" >Status</font></center></th>  <th  width="250px"  ><center><font color="white"  size="4" >Screen Shots</font></center></th> <th width="250px"  ><center><font color="white"  size="4" >Date & Time</font></center></th>  </tr>       ]]>
+            </line>
+            <line>
+              <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;1</center> </th> <th width="450px" ><center><b><font color='black'>   Open Url - Orange HRM Url Invoked Successfully </b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_37_59_198 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_37_59_198 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_37_59_725_AM</center></th>  </tr>      ]]>
+            </line>
+            <line>
+              <![CDATA[ <tr bgcolor="#ddd"> <th width="100px"> <center>Step&nbsp;2</center> </th> <th width="450px" ><center><b><font color='black'>   Login Page - Enter user Name</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_37_59_993 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_37_59_993 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_00_456_AM</center></th>  </tr>      ]]>
+            </line>
+            <line>
+              <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;3</center> </th> <th width="450px" ><center><b><font color='black'>   Login Page - Enter Password</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_38_00_644 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_38_00_644 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_01_136_AM</center></th>  </tr>      ]]>
+            </line>
+            <line>
+              <![CDATA[ <tr bgcolor="#ddd"> <th width="100px"> <center>Step&nbsp;4</center> </th> <th width="450px" ><center><b><font color='black'>   Login Page - Click on Sign In</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_38_01_190 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_38_01_190 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_01_621_AM</center></th>  </tr>      ]]>
+            </line>
+            <line>
+              <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;5</center> </th> <th width="450px" ><center><b><font color='black'>   Nationality Page - Nationality Entered</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_38_08_654 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_38_08_654 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_09_020_AM</center></th>  </tr>      ]]>
+            </line>
+            <line>
+              <![CDATA[ <tr bgcolor="#ddd"> <th width="100px"> <center>Step&nbsp;6</center> </th> <th width="450px" ><center><b><font color='black'>   Scroll Nationality </b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_38_10_910 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_1_2019_Dec_23_4_37_56_584_AM/23_Dec_2019 4_38_10_910 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_11_273_AM</center></th>  </tr>      ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Nationality_call_allmethods -->
+        <test-method signature="Nationality_call_allmethods(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.TC01_Add_Nationality@6ac13091]" started-at="2019-12-22T23:08:11Z" name="Nationality_call_allmethods" data-provider="TC01_Add_Nationality1" finished-at="2019-12-22T23:08:15Z" duration-ms="4445" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://s2.demo.opensourcecms.com/orangehrm/symfony/web/index.php/auth/login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[opensourcecms]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[opensourcecms]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Mexicans126]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<table> <tr >  <img   style="border:1px solid black;"      src="C:\HTML Report\HtmlTemplates\Logo.JPEG"></tr><tr   ><center><font color="red"  size="15" >TC01_Add_Nationality_Iterration_2</font></center></tr><tr bgcolor="#9370DB"> <th width="100px"> <center><font color="white"  size="4" >Steps</font></center><font color="white"  size="4" ></font></center> </th> <th width="450px" ><center><font color="white"  size="4" >Details </font> </center></th> <th width="100px" ><center><font color="white"  size="4" >Status</font></center></th>  <th  width="250px"  ><center><font color="white"  size="4" >Screen Shots</font></center></th> <th width="250px"  ><center><font color="white"  size="4" >Date & Time</font></center></th>  </tr>       ]]>
+            </line>
+            <line>
+              <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;1</center> </th> <th width="450px" ><center><b><font color='black'>   Nationality Page - Nationality Entered</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_2_2019_Dec_23_4_38_11_287_AM/23_Dec_2019 4_38_12_880 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_2_2019_Dec_23_4_38_11_287_AM/23_Dec_2019 4_38_12_880 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_13_254_AM</center></th>  </tr>      ]]>
+            </line>
+            <line>
+              <![CDATA[ <tr bgcolor="#ddd"> <th width="100px"> <center>Step&nbsp;2</center> </th> <th width="450px" ><center><b><font color='black'>   Scroll Nationality </b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_2_2019_Dec_23_4_38_11_287_AM/23_Dec_2019 4_38_15_345 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_2_2019_Dec_23_4_38_11_287_AM/23_Dec_2019 4_38_15_345 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_15_721_AM</center></th>  </tr>      ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Nationality_call_allmethods -->
+        <test-method is-config="true" signature="CloseHtml()[pri:0, instance:TestCases.TC01_Add_Nationality@6ac13091]" started-at="2019-12-22T23:08:15Z" name="CloseHtml" finished-at="2019-12-22T23:08:19Z" duration-ms="3360" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;3</center> </th> <th width="450px" ><center><b><font color='black'>   HomePage - Logout</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_2_2019_Dec_23_4_38_11_287_AM/23_Dec_2019 4_38_15_791 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_2_2019_Dec_23_4_38_11_287_AM/23_Dec_2019 4_38_15_791 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_16_152_AM</center></th>  </tr>      ]]>
+            </line>
+            <line>
+              <![CDATA[ <tr bgcolor="#ddd"> <th width="100px"> <center>Step&nbsp;4</center> </th> <th width="450px" ><center><b><font color='black'>   After Click on Logout- Logged out Succefully</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_2_2019_Dec_23_4_38_11_287_AM/23_Dec_2019 4_38_17_904 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Nationality_Iterration_2_2019_Dec_23_4_38_11_287_AM/23_Dec_2019 4_38_17_904 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2019_Dec_23_4_38_18_336_AM</center></th>  </tr>      ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CloseHtml -->
+      </class> <!-- TestCases.TC01_Add_Nationality -->
+    </test> <!-- TC01_Add_Nationality -->
+  </suite> <!-- Suite -->
+</testng-results>
